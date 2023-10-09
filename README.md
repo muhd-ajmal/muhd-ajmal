@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://muhd-ajmal.github.io)
 <h1 align="center">Hi 👋, I'm Muhammed Ajmal</h1>
 <h3 align="center">A versatile programmer who loves to create web applications and machine learning models.</h3>
-<img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" align="right" alt="Coding" width="400">
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="Coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhd-ajmal&label=Profile%20views&color=0e75b6&style=flat" alt="muhd-ajmal" /> </p>
 
 - 💬 Ask me about **Python, PHP, Java**
