@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://itsmeajmal.com)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://muhd-ajmal.github.io)
 <h1 align="center">Hi 👋, I'm Muhammed Ajmal</h1>
 <h3 align="center">A versatile programmer who loves to create web applications and machine learning models.</h3>
 <img src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" align="right" alt="Coding" width="400">
